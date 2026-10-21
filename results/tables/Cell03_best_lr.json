@@ -1,0 +1,9 @@
+{
+ "MTL_BiLSTM": 0.0003,
+ "MTL_CNN": 0.001,
+ "MTL_Transformer": 0.001,
+ "MTL_Transformer_PE": 0.001,
+ "STL_FunctionalRoles": 0.0001,
+ "STL_GeneType": 0.0003,
+ "STL_SymbolFamily": 0.0003
+}

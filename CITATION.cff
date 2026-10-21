@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "GeneTrust-MTL: leakage-controlled evaluation of multi-task Transformers for gene-type annotation"
+authors:
+  - family-names: "ALHAJAHMAD"
+    given-names: "Bashar"
+    affiliation: "Department of Computer Engineering, Siirt University, Turkey"
+    orcid: "https://orcid.org/0009-0009-3455-7206"
+repository-code: "https://github.com/Dr-Bashar-Uni-Hub/GeneTrust-MTL"
+license: MIT
+version: "1.0.0"

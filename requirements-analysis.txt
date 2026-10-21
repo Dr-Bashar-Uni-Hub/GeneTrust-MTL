@@ -1,0 +1,7 @@
+# Local post hoc analyses (analysis/), CPU only.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+ViennaRNA>=2.6
