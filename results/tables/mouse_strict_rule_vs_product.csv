@@ -1,0 +1,10 @@
+model,prod<0.8,rule80,prod<0.6,rule60
+DNABERT,0.634,0.639,0.656,0.66
+Transformer+PE,0.583,0.586,0.607,0.613
+Transformer (order-blind),0.567,0.573,0.592,0.602
+Single-task Transformer,0.533,0.539,0.558,0.57
+MTL BiLSTM,0.515,0.518,0.537,0.547
+MTL CNN,0.502,0.505,0.524,0.532
+1-NN lookup,0.473,0.462,0.445,0.429
+Length+GC+structure,0.363,0.353,0.354,0.34
+Length only,0.348,0.341,0.34,0.326

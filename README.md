@@ -1,10 +1,12 @@
 # GeneTrust-MTL
 
+**GeneTrust** is a leakage-controlled, cross-species benchmark for gene-type classifiers: homology-aware human partitions (80% and 60% identity, ≥80% coverage), an external set of 12,781 mouse genes, baselines, reference-model predictions and diagnostics.
+
 **Leakage-controlled evaluation of multi-task Transformers for gene-type annotation: memorization, sequence-length shortcuts, homology leakage and genuine sequence learning.**
 
 This repository contains all code, partitions, external data, predictions and result tables for the manuscript
 
-> ALHAJAHMAD, B. *Memorization, length shortcuts, and genuine sequence learning: a leakage-controlled evaluation of multi-task Transformers for gene-type annotation* (under review).
+> ALHAJAHMAD, B. *Beyond memorization: a leakage-controlled, cross-species benchmark reveals length shortcuts and motif-dependent learning in gene-type classifiers* (under review).
 
 All analyses are post hoc relative to the original evaluation of the model.
 
