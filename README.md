@@ -1,16 +1,16 @@
-# GeneTrust-MTL
+# GeneTrust: Leakage-Controlled Genomic AI Benchmark
 
 **GeneTrust** is a leakage-controlled, cross-species benchmark for gene-type classifiers: homology-aware human partitions (80% and 60% identity, ≥80% coverage), an external set of 12,781 mouse genes, baselines, reference-model predictions and diagnostics.
 
-**Leakage-controlled evaluation of multi-task Transformers for gene-type annotation: memorization, sequence-length shortcuts, homology leakage and genuine sequence learning.**
+**Beyond Memorization: GeneTrust Benchmarking of Shortcut Learning and Cross-Species Generalization in Genomic AI Classifiers.**
 
-This repository contains all code, partitions, external data, predictions and result tables for the manuscript
+This repository provides the code, partitions, external data, predictions, and result tables supporting the manuscript
 
-> ALHAJAHMAD, B. *Beyond memorization: a leakage-controlled, cross-species benchmark reveals length shortcuts and motif-dependent learning in gene-type classifiers* (under review).
+> ALHAJAHMAD, B. *Beyond Memorization: GeneTrust Benchmarking of Shortcut Learning and Cross-Species Generalization in Genomic AI Classifiers* (manuscript prepared for submission).
 
 All analyses are post hoc relative to the original evaluation of the model.
 
-## Key findings
+## Key findings and AI evaluation implications
 
 | Finding | Evidence |
 |---|---|
@@ -43,7 +43,7 @@ figures/          manuscript figures (300 dpi)
    python tools/build_checkpoint_zip.py --kaggle_dir /path/to/kaggle_csvs
    ```
    Upload the resulting `Genomic_Transformer_Checkpoint_20260913_2127.zip` to Colab or to your Google Drive.
-3. **Run the cells.** Results are written to `MyDrive/JBSD_Revision/` and every training run is resumable.
+3. **Run the cells.** Results are written to the historical experiment directory `MyDrive/JBSD_Revision/` and every training run is resumable. The directory name is retained for reproducibility; it does not indicate the target journal.
 
 | Session | Cells | Purpose | GPU time (approx.) |
 |---|---|---|---|
@@ -80,7 +80,7 @@ input paths; edit the paths at the top of each script. Requirements: `requiremen
 
 ## Citation
 
-See `CITATION.cff`. The manuscript citation will be added upon publication.
+Please cite the manuscript using the title above until a formal publication record is available. See `CITATION.cff`, and update its title if it still contains the previous manuscript title. Publication details will be added upon publication.
 
 ## License
 
