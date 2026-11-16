@@ -1,0 +1,38 @@
+{
+ "species": "zebrafish",
+ "taxon": 7955,
+ "divergence_mya": 429,
+ "gene_reports": 69829,
+ "eligible_le_1000nt": 17445,
+ "eligible_by_class": {
+  "tRNA": 8708,
+  "rRNA": 5002,
+  "snRNA": 1683,
+  "ncRNA": 953,
+  "PROTEIN_CODING": 491,
+  "PSEUDO": 324,
+  "snoRNA": 260,
+  "OTHER": 24
+ },
+ "n_genes": 9673,
+ "by_class": {
+  "tRNA": 3000,
+  "rRNA": 3000,
+  "snRNA": 1682,
+  "ncRNA": 926,
+  "PROTEIN_CODING": 463,
+  "PSEUDO": 319,
+  "snoRNA": 260,
+  "OTHER": 23
+ },
+ "n_strict80": 3350,
+ "n_strict60": 2832,
+ "n_no_detectable_homolog": 2500,
+ "n_components": 1144,
+ "trna_A_box_found": 0.9583333333333334,
+ "trna_B_box_found": 0.7803333333333333,
+ "seed": 2026,
+ "cap_per_class": 3000,
+ "max_len": 1000,
+ "datasets_cli": "datasets version: 18.41.1"
+}

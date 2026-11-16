@@ -1,0 +1,7 @@
+# Cells 08 and 12 (each in its own PyTorch session; do not mix with TensorFlow cells).
+torch
+transformers>=4.40   # tested with 5.x; cells adapt to 4.x/5.x argument names
+accelerate
+numpy
+pandas
+scikit-learn

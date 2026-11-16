@@ -1,0 +1,12 @@
+model,acc all,macroF1 all,acc no>=80% human match,acc no>=60%,acc no detectable homolog
+Length only,0.361,0.276,0.348,0.340,0.326
+Length+GC+structure,0.380,0.351,0.363,0.354,0.342
+1-NN lookup,0.505,0.608,0.473,0.445,0.412
+Transformer+PE,0.577,0.470,0.583,0.607,0.636
+Transformer (order-blind),0.554,0.415,0.567,0.592,0.618
+Single-task Transformer,0.513,0.319,0.533,0.558,0.584
+MTL BiLSTM,0.510,0.370,0.515,0.537,0.567
+MTL CNN,0.499,0.387,0.502,0.524,0.550
+Transformer+PE + biophysical,0.561,0.387,0.570,0.591,0.614
+DNABERT,0.624,0.544,0.634,0.656,0.678
+DNABERT + biophysical,0.600,0.441,0.614,0.636,0.661

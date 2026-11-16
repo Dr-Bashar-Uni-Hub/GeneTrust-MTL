@@ -1,0 +1,6 @@
+"contrast (human test, Gene Type)",diff_pp,lo,hi,p
+PE only − neither,2.0,1.1,2.8,0.0
+mask only − neither,-7.2,-9.7,-4.5,0.0
+both (order-aware) − neither,4.0,3.1,5.1,0.0
+both (order-aware) − PE only,2.0,1.3,2.9,0.0
+both (order-aware) − mask only,11.2,8.4,13.7,0.0

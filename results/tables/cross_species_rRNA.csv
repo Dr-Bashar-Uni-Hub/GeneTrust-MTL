@@ -1,0 +1,61 @@
+species,model,seed_index,n_rRNA,recall_rRNA,frac_predicted_PSEUDO
+mouse,DNABERT,0,63,0.873,0.111
+mouse,DNABERT,1,63,0.857,0.127
+mouse,DNABERT,2,63,0.825,0.159
+mouse,Transformer+PE,0,63,0.794,0.19
+mouse,Transformer+PE,1,63,0.825,0.159
+mouse,Transformer+PE,2,63,0.825,0.159
+mouse,Transformer+PE,3,63,0.698,0.302
+mouse,Transformer+PE,4,63,0.778,0.222
+mouse,Transformer (order-blind),0,63,0.778,0.206
+mouse,Transformer (order-blind),1,63,0.778,0.222
+mouse,Transformer (order-blind),2,63,0.778,0.206
+mouse,Transformer (order-blind),3,63,0.778,0.222
+mouse,Transformer (order-blind),4,63,0.698,0.286
+mouse,MTL CNN,0,63,0.825,0.175
+mouse,MTL CNN,1,63,0.683,0.317
+mouse,MTL CNN,2,63,0.778,0.206
+mouse,MTL CNN,3,63,0.762,0.206
+mouse,MTL CNN,4,63,0.794,0.19
+mouse,1-NN lookup,0,63,0.937,0.063
+mouse,Length only,0,63,0.46,0.54
+chicken,DNABERT,0,104,0.971,0.029
+chicken,DNABERT,1,104,0.971,0.019
+chicken,DNABERT,2,104,0.933,0.058
+chicken,Transformer+PE,0,104,0.904,0.087
+chicken,Transformer+PE,1,104,0.962,0.029
+chicken,Transformer+PE,2,104,0.913,0.087
+chicken,Transformer+PE,3,104,0.231,0.76
+chicken,Transformer+PE,4,104,0.933,0.067
+chicken,Transformer (order-blind),0,104,0.231,0.76
+chicken,Transformer (order-blind),1,104,0.24,0.75
+chicken,Transformer (order-blind),2,104,0.933,0.058
+chicken,Transformer (order-blind),3,104,0.894,0.106
+chicken,Transformer (order-blind),4,104,0.202,0.788
+chicken,MTL CNN,0,104,0.962,0.038
+chicken,MTL CNN,1,104,0.183,0.808
+chicken,MTL CNN,2,104,0.962,0.029
+chicken,MTL CNN,3,104,0.192,0.798
+chicken,MTL CNN,4,104,0.183,0.808
+chicken,1-NN lookup,0,104,0.288,0.702
+chicken,Length only,0,104,0.904,0.096
+zebrafish,DNABERT,0,3000,0.023,0.977
+zebrafish,DNABERT,1,3000,0.112,0.888
+zebrafish,DNABERT,2,3000,0.02,0.98
+zebrafish,Transformer+PE,0,3000,0.859,0.141
+zebrafish,Transformer+PE,1,3000,0.981,0.019
+zebrafish,Transformer+PE,2,3000,0.979,0.021
+zebrafish,Transformer+PE,3,3000,0.887,0.105
+zebrafish,Transformer+PE,4,3000,0.084,0.916
+zebrafish,Transformer (order-blind),0,3000,0.071,0.928
+zebrafish,Transformer (order-blind),1,3000,0.811,0.189
+zebrafish,Transformer (order-blind),2,3000,0.104,0.896
+zebrafish,Transformer (order-blind),3,3000,0.88,0.12
+zebrafish,Transformer (order-blind),4,3000,0.171,0.829
+zebrafish,MTL CNN,0,3000,0.008,0.992
+zebrafish,MTL CNN,1,3000,0.846,0.153
+zebrafish,MTL CNN,2,3000,0.082,0.917
+zebrafish,MTL CNN,3,3000,0.896,0.104
+zebrafish,MTL CNN,4,3000,0.717,0.282
+zebrafish,1-NN lookup,0,3000,0.932,0.068
+zebrafish,Length only,0,3000,0.982,0.018

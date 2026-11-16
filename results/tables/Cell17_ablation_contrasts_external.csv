@@ -1,0 +1,13 @@
+species,contrast (shared classes),diff_pp,lo,hi,p,n
+mouse,PE only − neither,-3.5,-4.3,-2.8,0.0,12715
+mouse,mask only − neither,-8.6,-10.4,-6.9,0.0,12715
+mouse,both − neither,2.3,1.1,3.8,0.0,12715
+mouse,both − PE only,5.8,4.6,7.1,0.0,12715
+chicken,PE only − neither,-8.0,-10.3,-5.5,0.0,2449
+chicken,mask only − neither,-21.7,-24.7,-18.8,0.0,2449
+chicken,both − neither,3.4,1.2,6.0,0.003,2449
+chicken,both − PE only,11.4,9.9,12.8,0.0,2449
+zebrafish,PE only − neither,-0.0,-2.7,2.7,0.982,6673
+zebrafish,mask only − neither,8.5,3.4,13.9,0.001,6673
+zebrafish,both − neither,12.7,7.5,18.4,0.0,6673
+zebrafish,both − PE only,12.7,8.2,18.2,0.0,6673

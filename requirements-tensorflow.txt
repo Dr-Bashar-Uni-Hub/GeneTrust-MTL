@@ -1,0 +1,7 @@
+# Cells 01-07, 09-11 (one TensorFlow session). Tested in Google Colab (Python 3.13).
+tensorflow>=2.16
+numpy
+pandas
+scipy
+scikit-learn
+# installed by the cells themselves: MMseqs2 (static binary), NCBI Datasets CLI (cell 10)

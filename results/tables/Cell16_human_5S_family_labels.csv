@@ -1,0 +1,635 @@
+NCBIGeneID,Symbol,Description,GeneType,part
+100873568,RNA5SP517,"RNA, 5S ribosomal pseudogene 517",PSEUDO,train
+100873277,RNA5SP22,"RNA, 5S ribosomal pseudogene 22",PSEUDO,train
+100873617,RNA5SP358,"RNA, 5S ribosomal pseudogene 358",PSEUDO,train
+100873677,RNA5SP426,"RNA, 5S ribosomal pseudogene 426",PSEUDO,train
+100873727,RNA5SP485,"RNA, 5S ribosomal pseudogene 485",PSEUDO,train
+124905423,LOC124905423,5S ribosomal RNA,PSEUDO,train
+100873298,RNA5SP63,"RNA, 5S ribosomal pseudogene 63",PSEUDO,train
+100873377,RNA5SP107,"RNA, 5S ribosomal pseudogene 107",PSEUDO,train
+100873556,RNA5SP505,"RNA, 5S ribosomal pseudogene 505",PSEUDO,train
+100873474,RNA5SP214,"RNA, 5S ribosomal pseudogene 214",PSEUDO,train
+100873328,RNA5SP95,"RNA, 5S ribosomal pseudogene 95",PSEUDO,train
+100873566,RNA5SP515,"RNA, 5S ribosomal pseudogene 515",PSEUDO,train
+100873673,RNA5SP422,"RNA, 5S ribosomal pseudogene 422",PSEUDO,train
+100873393,RNA5SP123,"RNA, 5S ribosomal pseudogene 123",PSEUDO,train
+100873394,RNA5SP124,"RNA, 5S ribosomal pseudogene 124",PSEUDO,train
+100873552,RNA5SP501,"RNA, 5S ribosomal pseudogene 501",PSEUDO,train
+100873702,RNA5SP457,"RNA, 5S ribosomal pseudogene 457",PSEUDO,train
+100873685,RNA5SP436,"RNA, 5S ribosomal pseudogene 436",PSEUDO,train
+100873718,RNA5SP476,"RNA, 5S ribosomal pseudogene 476",PSEUDO,train
+100873641,RNA5SP386,"RNA, 5S ribosomal pseudogene 386",PSEUDO,train
+100873577,RNA5SP303,"RNA, 5S ribosomal pseudogene 303",PSEUDO,train
+100873454,RNA5SP192,"RNA, 5S ribosomal pseudogene 192",PSEUDO,train
+100873429,RNA5SP164,"RNA, 5S ribosomal pseudogene 164",PSEUDO,train
+100873449,RNA5SP187,"RNA, 5S ribosomal pseudogene 187",PSEUDO,train
+106480769,RNA5SP468,"RNA, 5S ribosomal pseudogene 468",PSEUDO,train
+100873390,RNA5SP120,"RNA, 5S ribosomal pseudogene 120",PSEUDO,train
+100873453,RNA5SP191,"RNA, 5S ribosomal pseudogene 191",PSEUDO,train
+100873553,RNA5SP502,"RNA, 5S ribosomal pseudogene 502",PSEUDO,train
+100873316,RNA5SP82,"RNA, 5S ribosomal pseudogene 82",PSEUDO,train
+100873723,RNA5SP481,"RNA, 5S ribosomal pseudogene 481",PSEUDO,train
+106481794,RNA5SP350,"RNA, 5S ribosomal pseudogene 350",PSEUDO,train
+100169760,RNA5S9,"RNA, 5S ribosomal 9",rRNA,train
+100873537,RNA5SP284,"RNA, 5S ribosomal pseudogene 284",PSEUDO,train
+100873296,RNA5SP61,"RNA, 5S ribosomal pseudogene 61",PSEUDO,train
+100873669,RNA5SP418,"RNA, 5S ribosomal pseudogene 418",PSEUDO,train
+106480756,RNA5SP134,"RNA, 5S ribosomal pseudogene 134",PSEUDO,train
+100873623,RNA5SP364,"RNA, 5S ribosomal pseudogene 364",PSEUDO,train
+100873604,RNA5SP341,"RNA, 5S ribosomal pseudogene 341",PSEUDO,train
+100873615,RNA5SP356,"RNA, 5S ribosomal pseudogene 356",PSEUDO,train
+100873489,RNA5SP231,"RNA, 5S ribosomal pseudogene 231",PSEUDO,train
+100873387,RNA5SP117,"RNA, 5S ribosomal pseudogene 117",PSEUDO,train
+124905783,LOC124905783,5S ribosomal RNA,rRNA,train
+111644134,RNA5SP525,"RNA, 5S ribosomal pseudogene 525",PSEUDO,train
+100873638,RNA5SP383,"RNA, 5S ribosomal pseudogene 383",PSEUDO,train
+106479009,RNA5SP355,"RNA, 5S ribosomal pseudogene 355",PSEUDO,train
+100873588,RNA5SP322,"RNA, 5S ribosomal pseudogene 322",PSEUDO,train
+106478994,RNA5SP106,"RNA, 5S ribosomal pseudogene 106",PSEUDO,train
+106479007,RNA5SP335,"RNA, 5S ribosomal pseudogene 335",PSEUDO,train
+100873421,RNA5SP155,"RNA, 5S ribosomal pseudogene 155",PSEUDO,train
+100873438,RNA5SP176,"RNA, 5S ribosomal pseudogene 176",PSEUDO,train
+100873557,RNA5SP506,"RNA, 5S ribosomal pseudogene 506",PSEUDO,train
+100873686,RNA5SP437,"RNA, 5S ribosomal pseudogene 437",PSEUDO,train
+100873583,RNA5SP309,"RNA, 5S ribosomal pseudogene 309",PSEUDO,train
+100873660,RNA5SP408,"RNA, 5S ribosomal pseudogene 408",PSEUDO,train
+100873607,RNA5SP345,"RNA, 5S ribosomal pseudogene 345",PSEUDO,train
+100873628,RNA5SP369,"RNA, 5S ribosomal pseudogene 369",PSEUDO,train
+100873609,RNA5SP347,"RNA, 5S ribosomal pseudogene 347",PSEUDO,train
+100873413,RNA5SP146,"RNA, 5S ribosomal pseudogene 146",PSEUDO,train
+100873410,RNA5SP143,"RNA, 5S ribosomal pseudogene 143",PSEUDO,train
+100873468,RNA5SP208,"RNA, 5S ribosomal pseudogene 208",PSEUDO,train
+100873579,RNA5SP305,"RNA, 5S ribosomal pseudogene 305",PSEUDO,train
+100873605,RNA5SP343,"RNA, 5S ribosomal pseudogene 343",PSEUDO,train
+100873625,RNA5SP366,"RNA, 5S ribosomal pseudogene 366",PSEUDO,train
+100873310,RNA5SP76,"RNA, 5S ribosomal pseudogene 76",PSEUDO,train
+100873388,RNA5SP118,"RNA, 5S ribosomal pseudogene 118",PSEUDO,train
+100873647,RNA5SP394,"RNA, 5S ribosomal pseudogene 394",PSEUDO,train
+100873291,RNA5SP53,"RNA, 5S ribosomal pseudogene 53",PSEUDO,train
+100873361,RNA5SP29,"RNA, 5S ribosomal pseudogene 29",PSEUDO,train
+100873732,RNA5SP490,"RNA, 5S ribosomal pseudogene 490",PSEUDO,train
+100873505,RNA5SP249,"RNA, 5S ribosomal pseudogene 249",PSEUDO,train
+100873402,RNA5SP133,"RNA, 5S ribosomal pseudogene 133",PSEUDO,train
+100873543,RNA5SP290,"RNA, 5S ribosomal pseudogene 290",PSEUDO,train
+100873542,RNA5SP289,"RNA, 5S ribosomal pseudogene 289",PSEUDO,train
+100873734,RNA5SP492,"RNA, 5S ribosomal pseudogene 492",PSEUDO,train
+100873620,RNA5SP361,"RNA, 5S ribosomal pseudogene 361",PSEUDO,train
+100873521,RNA5SP268,"RNA, 5S ribosomal pseudogene 268",PSEUDO,train
+100873520,RNA5SP267,"RNA, 5S ribosomal pseudogene 267",PSEUDO,train
+100873278,RNA5SP23,"RNA, 5S ribosomal pseudogene 23",PSEUDO,train
+100873657,RNA5SP405,"RNA, 5S ribosomal pseudogene 405",PSEUDO,train
+106478996,RNA5SP140,"RNA, 5S ribosomal pseudogene 140",PSEUDO,train
+100873484,RNA5SP225,"RNA, 5S ribosomal pseudogene 225",PSEUDO,train
+100873425,RNA5SP159,"RNA, 5S ribosomal pseudogene 159",PSEUDO,train
+100873564,RNA5SP513,"RNA, 5S ribosomal pseudogene 513",PSEUDO,train
+100873581,RNA5SP307,"RNA, 5S ribosomal pseudogene 307",PSEUDO,train
+100873501,RNA5SP245,"RNA, 5S ribosomal pseudogene 245",PSEUDO,train
+106479004,RNA5SP302,"RNA, 5S ribosomal pseudogene 302",PSEUDO,train
+100873373,RNA5SP102,"RNA, 5S ribosomal pseudogene 102",PSEUDO,train
+100873321,RNA5SP88,"RNA, 5S ribosomal pseudogene 88",PSEUDO,train
+106480758,RNA5SP175,"RNA, 5S ribosomal pseudogene 175",PSEUDO,train
+100873611,RNA5SP349,"RNA, 5S ribosomal pseudogene 349",PSEUDO,train
+100873417,RNA5SP151,"RNA, 5S ribosomal pseudogene 151",PSEUDO,train
+100873327,RNA5SP94,"RNA, 5S ribosomal pseudogene 94",PSEUDO,train
+100873722,RNA5SP480,"RNA, 5S ribosomal pseudogene 480",PSEUDO,train
+100873409,RNA5SP142,"RNA, 5S ribosomal pseudogene 142",PSEUDO,train
+100873599,RNA5SP336,"RNA, 5S ribosomal pseudogene 336",PSEUDO,train
+100873475,RNA5SP215,"RNA, 5S ribosomal pseudogene 215",PSEUDO,train
+106479015,RNA5SP448,"RNA, 5S ribosomal pseudogene 448",PSEUDO,train
+100873639,RNA5SP384,"RNA, 5S ribosomal pseudogene 384",PSEUDO,train
+100873479,RNA5SP219,"RNA, 5S ribosomal pseudogene 219",PSEUDO,train
+100873416,RNA5SP150,"RNA, 5S ribosomal pseudogene 150",PSEUDO,train
+100873619,RNA5SP360,"RNA, 5S ribosomal pseudogene 360",PSEUDO,train
+106480765,RNA5SP370,"RNA, 5S ribosomal pseudogene 370",PSEUDO,train
+100873293,RNA5SP55,"RNA, 5S ribosomal pseudogene 55",PSEUDO,train
+100873679,RNA5SP428,"RNA, 5S ribosomal pseudogene 428",PSEUDO,train
+100873359,RNA5SP27,"RNA, 5S ribosomal pseudogene 27",PSEUDO,train
+100873696,RNA5SP451,"RNA, 5S ribosomal pseudogene 451",PSEUDO,train
+106479001,RNA5SP243,"RNA, 5S ribosomal pseudogene 243",PSEUDO,train
+100873684,RNA5SP434,"RNA, 5S ribosomal pseudogene 434",PSEUDO,train
+100873365,RNA5SP33,"RNA, 5S ribosomal pseudogene 33",PSEUDO,train
+100873396,RNA5SP126,"RNA, 5S ribosomal pseudogene 126",PSEUDO,train
+100873533,RNA5SP280,"RNA, 5S ribosomal pseudogene 280",PSEUDO,train
+100873442,RNA5SP180,"RNA, 5S ribosomal pseudogene 180",PSEUDO,train
+100873601,RNA5SP338,"RNA, 5S ribosomal pseudogene 338",PSEUDO,train
+100873419,RNA5SP153,"RNA, 5S ribosomal pseudogene 153",PSEUDO,train
+100873664,RNA5SP413,"RNA, 5S ribosomal pseudogene 413",PSEUDO,train
+100873644,RNA5SP391,"RNA, 5S ribosomal pseudogene 391",PSEUDO,train
+100873631,RNA5SP373,"RNA, 5S ribosomal pseudogene 373",PSEUDO,train
+100873554,RNA5SP503,"RNA, 5S ribosomal pseudogene 503",PSEUDO,train
+100873370,RNA5SP38,"RNA, 5S ribosomal pseudogene 38",PSEUDO,train
+100873592,RNA5SP326,"RNA, 5S ribosomal pseudogene 326",PSEUDO,train
+106479002,RNA5SP263,"RNA, 5S ribosomal pseudogene 263",PSEUDO,train
+100873649,RNA5SP396,"RNA, 5S ribosomal pseudogene 396",PSEUDO,train
+100873658,RNA5SP406,"RNA, 5S ribosomal pseudogene 406",PSEUDO,train
+100873645,RNA5SP392,"RNA, 5S ribosomal pseudogene 392",PSEUDO,train
+100873299,RNA5SP64,"RNA, 5S ribosomal pseudogene 64",PSEUDO,train
+100873378,RNA5SP108,"RNA, 5S ribosomal pseudogene 108",PSEUDO,train
+100873308,RNA5SP74,"RNA, 5S ribosomal pseudogene 74",PSEUDO,train
+100873692,RNA5SP446,"RNA, 5S ribosomal pseudogene 446",PSEUDO,train
+100873731,RNA5SP489,"RNA, 5S ribosomal pseudogene 489",PSEUDO,train
+106478998,RNA5SP174,"RNA, 5S ribosomal pseudogene 174",PSEUDO,train
+100873426,RNA5SP160,"RNA, 5S ribosomal pseudogene 160",PSEUDO,train
+100873330,RNA5SP97,"RNA, 5S ribosomal pseudogene 97",PSEUDO,train
+100873728,RNA5SP486,"RNA, 5S ribosomal pseudogene 486",PSEUDO,train
+100873318,RNA5SP85,"RNA, 5S ribosomal pseudogene 85",PSEUDO,train
+100873688,RNA5SP440,"RNA, 5S ribosomal pseudogene 440",PSEUDO,train
+100873725,RNA5SP483,"RNA, 5S ribosomal pseudogene 483",PSEUDO,train
+100873600,RNA5SP337,"RNA, 5S ribosomal pseudogene 337",PSEUDO,train
+100873575,RNA5SP300,"RNA, 5S ribosomal pseudogene 300",PSEUDO,train
+100873437,RNA5SP173,"RNA, 5S ribosomal pseudogene 173",PSEUDO,train
+106480768,RNA5SP442,"RNA, 5S ribosomal pseudogene 442",PSEUDO,train
+100873461,RNA5SP200,"RNA, 5S ribosomal pseudogene 200",PSEUDO,train
+100873382,RNA5SP112,"RNA, 5S ribosomal pseudogene 112",PSEUDO,train
+100873691,RNA5SP445,"RNA, 5S ribosomal pseudogene 445",PSEUDO,train
+100873311,RNA5SP77,"RNA, 5S ribosomal pseudogene 77",PSEUDO,train
+100873369,RNA5SP37,"RNA, 5S ribosomal pseudogene 37",PSEUDO,train
+100873493,RNA5SP235,"RNA, 5S ribosomal pseudogene 235",PSEUDO,train
+100873303,RNA5SP68,"RNA, 5S ribosomal pseudogene 68",PSEUDO,train
+100873502,RNA5SP246,"RNA, 5S ribosomal pseudogene 246",PSEUDO,train
+100873614,RNA5SP354,"RNA, 5S ribosomal pseudogene 354",PSEUDO,train
+100873280,RNA5SP41,"RNA, 5S ribosomal pseudogene 41",PSEUDO,train
+100873624,RNA5SP365,"RNA, 5S ribosomal pseudogene 365",PSEUDO,train
+100873689,RNA5SP441,"RNA, 5S ribosomal pseudogene 441",PSEUDO,train
+100873636,RNA5SP380,"RNA, 5S ribosomal pseudogene 380",PSEUDO,train
+100873610,RNA5SP348,"RNA, 5S ribosomal pseudogene 348",PSEUDO,train
+100873560,RNA5SP509,"RNA, 5S ribosomal pseudogene 509",PSEUDO,train
+100873422,RNA5SP156,"RNA, 5S ribosomal pseudogene 156",PSEUDO,train
+100873690,RNA5SP444,"RNA, 5S ribosomal pseudogene 444",PSEUDO,train
+106479014,RNA5SP439,"RNA, 5S ribosomal pseudogene 439",PSEUDO,train
+106479016,RNA5SP458,"RNA, 5S ribosomal pseudogene 458",PSEUDO,train
+100873325,RNA5SP92,"RNA, 5S ribosomal pseudogene 92",PSEUDO,train
+100873693,RNA5SP447,"RNA, 5S ribosomal pseudogene 447",PSEUDO,train
+111644135,RNA5SP526,"RNA, 5S ribosomal pseudogene 526",PSEUDO,train
+100873368,RNA5SP36,"RNA, 5S ribosomal pseudogene 36",PSEUDO,train
+100873510,RNA5SP256,"RNA, 5S ribosomal pseudogene 256",PSEUDO,train
+100873739,RNA5SP497,"RNA, 5S ribosomal pseudogene 497",PSEUDO,train
+100873401,RNA5SP132,"RNA, 5S ribosomal pseudogene 132",PSEUDO,train
+100873380,RNA5SP110,"RNA, 5S ribosomal pseudogene 110",PSEUDO,train
+100873385,RNA5SP115,"RNA, 5S ribosomal pseudogene 115",PSEUDO,train
+106480754,RNA5SP57,"RNA, 5S ribosomal pseudogene 57",PSEUDO,train
+106479000,RNA5SP226,"RNA, 5S ribosomal pseudogene 226",PSEUDO,train
+100873590,RNA5SP324,"RNA, 5S ribosomal pseudogene 324",PSEUDO,train
+100873367,RNA5SP35,"RNA, 5S ribosomal pseudogene 35",PSEUDO,train
+100873538,RNA5SP285,"RNA, 5S ribosomal pseudogene 285",PSEUDO,train
+100873498,RNA5SP240,"RNA, 5S ribosomal pseudogene 240",PSEUDO,train
+100873518,RNA5SP265,"RNA, 5S ribosomal pseudogene 265",PSEUDO,train
+100873513,RNA5SP259,"RNA, 5S ribosomal pseudogene 259",PSEUDO,train
+100873506,RNA5SP250,"RNA, 5S ribosomal pseudogene 250",PSEUDO,train
+100873420,RNA5SP154,"RNA, 5S ribosomal pseudogene 154",PSEUDO,train
+100873490,RNA5SP232,"RNA, 5S ribosomal pseudogene 232",PSEUDO,train
+100873668,RNA5SP417,"RNA, 5S ribosomal pseudogene 417",PSEUDO,train
+100873448,RNA5SP186,"RNA, 5S ribosomal pseudogene 186",PSEUDO,train
+100887740,RNA5SP411,"RNA, 5S ribosomal pseudogene 411",PSEUDO,train
+111644146,RNA5SP536,"RNA, 5S ribosomal pseudogene 536",PSEUDO,train
+100873472,RNA5SP212,"RNA, 5S ribosomal pseudogene 212",PSEUDO,train
+100873414,RNA5SP147,"RNA, 5S ribosomal pseudogene 147",PSEUDO,train
+106479003,RNA5SP297,"RNA, 5S ribosomal pseudogene 297",PSEUDO,train
+106479008,RNA5SP342,"RNA, 5S ribosomal pseudogene 342",PSEUDO,train
+100873527,RNA5SP274,"RNA, 5S ribosomal pseudogene 274",PSEUDO,train
+100873706,RNA5SP462,"RNA, 5S ribosomal pseudogene 462",PSEUDO,train
+106480771,RNA5SP520,"RNA, 5S ribosomal pseudogene 520",PSEUDO,train
+100873492,RNA5SP234,"RNA, 5S ribosomal pseudogene 234",PSEUDO,train
+100873735,RNA5SP493,"RNA, 5S ribosomal pseudogene 493",PSEUDO,train
+124905788,LOC124905788,5S ribosomal RNA,rRNA,train
+100873646,RNA5SP393,"RNA, 5S ribosomal pseudogene 393",PSEUDO,train
+100873730,RNA5SP488,"RNA, 5S ribosomal pseudogene 488",PSEUDO,train
+100873491,RNA5SP233,"RNA, 5S ribosomal pseudogene 233",PSEUDO,train
+100873451,RNA5SP189,"RNA, 5S ribosomal pseudogene 189",PSEUDO,train
+100873548,RNA5SP295,"RNA, 5S ribosomal pseudogene 295",PSEUDO,train
+100873733,RNA5SP491,"RNA, 5S ribosomal pseudogene 491",PSEUDO,train
+106478993,RNA5SP99,"RNA, 5S ribosomal pseudogene 99",PSEUDO,train
+100873534,RNA5SP281,"RNA, 5S ribosomal pseudogene 281",PSEUDO,train
+111644143,RNA5SP524,"RNA, 5S ribosomal pseudogene 524",PSEUDO,train
+100873360,RNA5SP28,"RNA, 5S ribosomal pseudogene 28",PSEUDO,train
+100873550,RNA5SP499,"RNA, 5S ribosomal pseudogene 499",PSEUDO,train
+100873297,RNA5SP62,"RNA, 5S ribosomal pseudogene 62",PSEUDO,train
+100873705,RNA5SP461,"RNA, 5S ribosomal pseudogene 461",PSEUDO,train
+100873467,RNA5SP207,"RNA, 5S ribosomal pseudogene 207",PSEUDO,train
+106480438,RNA5SP199,"RNA, 5S ribosomal pseudogene 199",PSEUDO,train
+100873703,RNA5SP459,"RNA, 5S ribosomal pseudogene 459",PSEUDO,train
+111644137,RNA5SP531,"RNA, 5S ribosomal pseudogene 531",PSEUDO,train
+100873320,RNA5SP87,"RNA, 5S ribosomal pseudogene 87",PSEUDO,train
+100873694,RNA5SP449,"RNA, 5S ribosomal pseudogene 449",PSEUDO,train
+100873665,RNA5SP414,"RNA, 5S ribosomal pseudogene 414",PSEUDO,train
+100873415,RNA5SP148,"RNA, 5S ribosomal pseudogene 148",PSEUDO,train
+112436692,RNA5SP530,"RNA, 5S ribosomal pseudogene 530",PSEUDO,train
+100873707,RNA5SP463,"RNA, 5S ribosomal pseudogene 463",PSEUDO,train
+100873699,RNA5SP454,"RNA, 5S ribosomal pseudogene 454",PSEUDO,train
+100873300,RNA5SP65,"RNA, 5S ribosomal pseudogene 65",PSEUDO,train
+100873375,RNA5SP104,"RNA, 5S ribosomal pseudogene 104",PSEUDO,train
+100873279,RNA5SP40,"RNA, 5S ribosomal pseudogene 40",PSEUDO,train
+100873418,RNA5SP152,"RNA, 5S ribosomal pseudogene 152",PSEUDO,train
+124905782,LOC124905782,5S ribosomal RNA,rRNA,train
+100873547,RNA5SP294,"RNA, 5S ribosomal pseudogene 294",PSEUDO,train
+100873275,RNA5SP20,"RNA, 5S ribosomal pseudogene 20",PSEUDO,train
+100873427,RNA5SP162,"RNA, 5S ribosomal pseudogene 162",PSEUDO,train
+100873495,RNA5SP237,"RNA, 5S ribosomal pseudogene 237",PSEUDO,train
+100873466,RNA5SP205,"RNA, 5S ribosomal pseudogene 205",PSEUDO,train
+100873322,RNA5SP89,"RNA, 5S ribosomal pseudogene 89",PSEUDO,train
+100873545,RNA5SP292,"RNA, 5S ribosomal pseudogene 292",PSEUDO,train
+100873630,RNA5SP372,"RNA, 5S ribosomal pseudogene 372",PSEUDO,train
+100873497,RNA5SP239,"RNA, 5S ribosomal pseudogene 239",PSEUDO,train
+100873457,RNA5SP195,"RNA, 5S ribosomal pseudogene 195",PSEUDO,train
+100873514,RNA5SP260,"RNA, 5S ribosomal pseudogene 260",PSEUDO,train
+100873697,RNA5SP452,"RNA, 5S ribosomal pseudogene 452",PSEUDO,train
+100873613,RNA5SP353,"RNA, 5S ribosomal pseudogene 353",PSEUDO,train
+100873574,RNA5SP299,"RNA, 5S ribosomal pseudogene 299",PSEUDO,train
+100873637,RNA5SP382,"RNA, 5S ribosomal pseudogene 382",PSEUDO,train
+100873447,RNA5SP185,"RNA, 5S ribosomal pseudogene 185",PSEUDO,train
+100873562,RNA5SP511,"RNA, 5S ribosomal pseudogene 511",PSEUDO,train
+100873539,RNA5SP286,"RNA, 5S ribosomal pseudogene 286",PSEUDO,train
+111644145,RNA5SP528,"RNA, 5S ribosomal pseudogene 528",PSEUDO,train
+100873403,RNA5SP135,"RNA, 5S ribosomal pseudogene 135",PSEUDO,train
+100873463,RNA5SP202,"RNA, 5S ribosomal pseudogene 202",PSEUDO,train
+100873412,RNA5SP145,"RNA, 5S ribosomal pseudogene 145",PSEUDO,train
+100873544,RNA5SP291,"RNA, 5S ribosomal pseudogene 291",PSEUDO,train
+100873634,RNA5SP378,"RNA, 5S ribosomal pseudogene 378",PSEUDO,train
+106480766,RNA5SP389,"RNA, 5S ribosomal pseudogene 389",PSEUDO,train
+100873282,RNA5SP43,"RNA, 5S ribosomal pseudogene 43",PSEUDO,train
+100873477,RNA5SP217,"RNA, 5S ribosomal pseudogene 217",PSEUDO,train
+100873670,RNA5SP419,"RNA, 5S ribosomal pseudogene 419",PSEUDO,train
+100873366,RNA5SP34,"RNA, 5S ribosomal pseudogene 34",PSEUDO,train
+111644140,RNA5SP534,"RNA, 5S ribosomal pseudogene 534",PSEUDO,train
+100873712,RNA5SP469,"RNA, 5S ribosomal pseudogene 469",PSEUDO,train
+100873471,RNA5SP211,"RNA, 5S ribosomal pseudogene 211",PSEUDO,train
+100873528,RNA5SP275,"RNA, 5S ribosomal pseudogene 275",PSEUDO,train
+100873683,RNA5SP433,"RNA, 5S ribosomal pseudogene 433",PSEUDO,train
+100873326,RNA5SP93,"RNA, 5S ribosomal pseudogene 93",PSEUDO,train
+100873567,RNA5SP516,"RNA, 5S ribosomal pseudogene 516",PSEUDO,train
+100873400,RNA5SP131,"RNA, 5S ribosomal pseudogene 131",PSEUDO,train
+100873511,RNA5SP257,"RNA, 5S ribosomal pseudogene 257",PSEUDO,train
+100873716,RNA5SP474,"RNA, 5S ribosomal pseudogene 474",PSEUDO,train
+106478997,RNA5SP172,"RNA, 5S ribosomal pseudogene 172",PSEUDO,train
+100873488,RNA5SP230,"RNA, 5S ribosomal pseudogene 230",PSEUDO,train
+100873737,RNA5SP495,"RNA, 5S ribosomal pseudogene 495",PSEUDO,train
+112441442,RNA5SP532,"RNA, 5S ribosomal pseudogene 532",PSEUDO,train
+100873643,RNA5SP390,"RNA, 5S ribosomal pseudogene 390",PSEUDO,train
+100873440,RNA5SP178,"RNA, 5S ribosomal pseudogene 178",PSEUDO,train
+100873481,RNA5SP222,"RNA, 5S ribosomal pseudogene 222",PSEUDO,train
+100873711,RNA5SP467,"RNA, 5S ribosomal pseudogene 467",PSEUDO,train
+100873653,RNA5SP400,"RNA, 5S ribosomal pseudogene 400",PSEUDO,train
+100873450,RNA5SP188,"RNA, 5S ribosomal pseudogene 188",PSEUDO,train
+100873357,RNA5SP25,"RNA, 5S ribosomal pseudogene 25",PSEUDO,train
+100873504,RNA5SP248,"RNA, 5S ribosomal pseudogene 248",PSEUDO,train
+100873274,RNA5SP19,"RNA, 5S ribosomal pseudogene 19",PSEUDO,train
+100873618,RNA5SP359,"RNA, 5S ribosomal pseudogene 359",PSEUDO,train
+100873720,RNA5SP478,"RNA, 5S ribosomal pseudogene 478",PSEUDO,train
+100873376,RNA5SP105,"RNA, 5S ribosomal pseudogene 105",PSEUDO,train
+100873621,RNA5SP362,"RNA, 5S ribosomal pseudogene 362",PSEUDO,train
+100873379,RNA5SP109,"RNA, 5S ribosomal pseudogene 109",PSEUDO,train
+100873397,RNA5SP127,"RNA, 5S ribosomal pseudogene 127",PSEUDO,train
+100873459,RNA5SP197,"RNA, 5S ribosomal pseudogene 197",PSEUDO,train
+100873681,RNA5SP431,"RNA, 5S ribosomal pseudogene 431",PSEUDO,train
+100873717,RNA5SP475,"RNA, 5S ribosomal pseudogene 475",PSEUDO,train
+100873445,RNA5SP183,"RNA, 5S ribosomal pseudogene 183",PSEUDO,train
+106480763,RNA5SP333,"RNA, 5S ribosomal pseudogene 333",PSEUDO,train
+100873708,RNA5SP464,"RNA, 5S ribosomal pseudogene 464",PSEUDO,train
+100873460,RNA5SP198,"RNA, 5S ribosomal pseudogene 198",PSEUDO,train
+100873519,RNA5SP266,"RNA, 5S ribosomal pseudogene 266",PSEUDO,train
+100873436,RNA5SP171,"RNA, 5S ribosomal pseudogene 171",PSEUDO,train
+100873313,RNA5SP79,"RNA, 5S ribosomal pseudogene 79",PSEUDO,train
+100873736,RNA5SP494,"RNA, 5S ribosomal pseudogene 494",PSEUDO,train
+100873462,RNA5SP201,"RNA, 5S ribosomal pseudogene 201",PSEUDO,train
+100873596,RNA5SP330,"RNA, 5S ribosomal pseudogene 330",PSEUDO,train
+100873283,RNA5SP44,"RNA, 5S ribosomal pseudogene 44",PSEUDO,train
+100873500,RNA5SP242,"RNA, 5S ribosomal pseudogene 242",PSEUDO,train
+100873381,RNA5SP111,"RNA, 5S ribosomal pseudogene 111",PSEUDO,train
+106479010,RNA5SP376,"RNA, 5S ribosomal pseudogene 376",PSEUDO,train
+100873698,RNA5SP453,"RNA, 5S ribosomal pseudogene 453",PSEUDO,train
+100873478,RNA5SP218,"RNA, 5S ribosomal pseudogene 218",PSEUDO,train
+100873523,RNA5SP270,"RNA, 5S ribosomal pseudogene 270",PSEUDO,train
+106865375,RNA5SP334,"RNA, 5S ribosomal pseudogene 334",PSEUDO,train
+100873661,RNA5SP409,"RNA, 5S ribosomal pseudogene 409",PSEUDO,train
+100873515,RNA5SP261,"RNA, 5S ribosomal pseudogene 261",PSEUDO,train
+100873452,RNA5SP190,"RNA, 5S ribosomal pseudogene 190",PSEUDO,train
+100873324,RNA5SP91,"RNA, 5S ribosomal pseudogene 91",PSEUDO,train
+100873483,RNA5SP224,"RNA, 5S ribosomal pseudogene 224",PSEUDO,train
+100873570,RNA5SP519,"RNA, 5S ribosomal pseudogene 519",PSEUDO,train
+100873371,RNA5SP39,"RNA, 5S ribosomal pseudogene 39",PSEUDO,train
+100873319,RNA5SP86,"RNA, 5S ribosomal pseudogene 86",PSEUDO,train
+100873289,RNA5SP51,"RNA, 5S ribosomal pseudogene 51",PSEUDO,train
+100873458,RNA5SP196,"RNA, 5S ribosomal pseudogene 196",PSEUDO,train
+100873627,RNA5SP368,"RNA, 5S ribosomal pseudogene 368",PSEUDO,train
+100873431,RNA5SP166,"RNA, 5S ribosomal pseudogene 166",PSEUDO,train
+100873295,RNA5SP60,"RNA, 5S ribosomal pseudogene 60",PSEUDO,train
+100873525,RNA5SP272,"RNA, 5S ribosomal pseudogene 272",PSEUDO,train
+100873584,RNA5SP318,"RNA, 5S ribosomal pseudogene 318",PSEUDO,train
+100873632,RNA5SP374,"RNA, 5S ribosomal pseudogene 374",PSEUDO,train
+100873672,RNA5SP421,"RNA, 5S ribosomal pseudogene 421",PSEUDO,train
+100873535,RNA5SP282,"RNA, 5S ribosomal pseudogene 282",PSEUDO,train
+100873404,RNA5SP136,"RNA, 5S ribosomal pseudogene 136",PSEUDO,train
+100873710,RNA5SP466,"RNA, 5S ribosomal pseudogene 466",PSEUDO,train
+100873678,RNA5SP427,"RNA, 5S ribosomal pseudogene 427",PSEUDO,train
+100873456,RNA5SP194,"RNA, 5S ribosomal pseudogene 194",PSEUDO,train
+100873487,RNA5SP229,"RNA, 5S ribosomal pseudogene 229",PSEUDO,train
+100873363,RNA5SP31,"RNA, 5S ribosomal pseudogene 31",PSEUDO,train
+100873724,RNA5SP482,"RNA, 5S ribosomal pseudogene 482",PSEUDO,train
+100873516,RNA5SP262,"RNA, 5S ribosomal pseudogene 262",PSEUDO,train
+100873654,RNA5SP401,"RNA, 5S ribosomal pseudogene 401",PSEUDO,train
+100873629,RNA5SP371,"RNA, 5S ribosomal pseudogene 371",PSEUDO,train
+100873406,RNA5SP138,"RNA, 5S ribosomal pseudogene 138",PSEUDO,train
+100873508,RNA5SP252,"RNA, 5S ribosomal pseudogene 252",PSEUDO,train
+100873428,RNA5SP163,"RNA, 5S ribosomal pseudogene 163",PSEUDO,train
+100873433,RNA5SP168,"RNA, 5S ribosomal pseudogene 168",PSEUDO,train
+100873526,RNA5SP273,"RNA, 5S ribosomal pseudogene 273",PSEUDO,train
+100873294,RNA5SP56,"RNA, 5S ribosomal pseudogene 56",PSEUDO,train
+100873444,RNA5SP182,"RNA, 5S ribosomal pseudogene 182",PSEUDO,train
+100873715,RNA5SP472,"RNA, 5S ribosomal pseudogene 472",PSEUDO,train
+100873591,RNA5SP325,"RNA, 5S ribosomal pseudogene 325",PSEUDO,train
+100873593,RNA5SP327,"RNA, 5S ribosomal pseudogene 327",PSEUDO,train
+106479012,RNA5SP403,"RNA, 5S ribosomal pseudogene 403",PSEUDO,train
+100873499,RNA5SP241,"RNA, 5S ribosomal pseudogene 241",PSEUDO,train
+100873312,RNA5SP78,"RNA, 5S ribosomal pseudogene 78",PSEUDO,train
+100873405,RNA5SP137,"RNA, 5S ribosomal pseudogene 137",PSEUDO,train
+100885864,RNA5SP244,"RNA, 5S ribosomal pseudogene 244",PSEUDO,train
+100873430,RNA5SP165,"RNA, 5S ribosomal pseudogene 165",PSEUDO,train
+100873306,RNA5SP72,"RNA, 5S ribosomal pseudogene 72",PSEUDO,train
+100873395,RNA5SP125,"RNA, 5S ribosomal pseudogene 125",PSEUDO,train
+100873721,RNA5SP479,"RNA, 5S ribosomal pseudogene 479",PSEUDO,train
+100873276,RNA5SP21,"RNA, 5S ribosomal pseudogene 21",PSEUDO,train
+100873407,RNA5SP139,"RNA, 5S ribosomal pseudogene 139",PSEUDO,train
+100873473,RNA5SP213,"RNA, 5S ribosomal pseudogene 213",PSEUDO,train
+124905793,LOC124905793,5S ribosomal RNA,rRNA,train
+100873666,RNA5SP415,"RNA, 5S ribosomal pseudogene 415",PSEUDO,train
+100873469,RNA5SP209,"RNA, 5S ribosomal pseudogene 209",PSEUDO,train
+106479013,RNA5SP435,"RNA, 5S ribosomal pseudogene 435",PSEUDO,train
+124905422,LOC124905422,5S ribosomal RNA,rRNA,train
+100873389,RNA5SP119,"RNA, 5S ribosomal pseudogene 119",PSEUDO,train
+106480437,RNA5SP149,"RNA, 5S ribosomal pseudogene 149",PSEUDO,train
+100873331,RNA5SP98,"RNA, 5S ribosomal pseudogene 98",PSEUDO,train
+100873549,RNA5SP296,"RNA, 5S ribosomal pseudogene 296",PSEUDO,train
+100873374,RNA5SP103,"RNA, 5S ribosomal pseudogene 103",PSEUDO,train
+100873309,RNA5SP75,"RNA, 5S ribosomal pseudogene 75",PSEUDO,train
+100873559,RNA5SP508,"RNA, 5S ribosomal pseudogene 508",PSEUDO,train
+100873465,RNA5SP204,"RNA, 5S ribosomal pseudogene 204",PSEUDO,train
+100873408,RNA5SP141,"RNA, 5S ribosomal pseudogene 141",PSEUDO,train
+106479019,RNA5SP522,"RNA, 5S ribosomal pseudogene 522",PSEUDO,train
+100873446,RNA5SP184,"RNA, 5S ribosomal pseudogene 184",PSEUDO,train
+106480759,RNA5SP221,"RNA, 5S ribosomal pseudogene 221",PSEUDO,train
+100873602,RNA5SP339,"RNA, 5S ribosomal pseudogene 339",PSEUDO,train
+100873558,RNA5SP507,"RNA, 5S ribosomal pseudogene 507",PSEUDO,train
+100873551,RNA5SP500,"RNA, 5S ribosomal pseudogene 500",PSEUDO,train
+100873391,RNA5SP121,"RNA, 5S ribosomal pseudogene 121",PSEUDO,train
+100873356,RNA5SP24,"RNA, 5S ribosomal pseudogene 24",PSEUDO,train
+100873555,RNA5SP504,"RNA, 5S ribosomal pseudogene 504",PSEUDO,train
+100873358,RNA5SP26,"RNA, 5S ribosomal pseudogene 26",PSEUDO,train
+100873659,RNA5SP407,"RNA, 5S ribosomal pseudogene 407",PSEUDO,train
+100873386,RNA5SP116,"RNA, 5S ribosomal pseudogene 116",PSEUDO,train
+106480357,RNA5SP59,"RNA, 5S ribosomal pseudogene 59",PSEUDO,train
+100873729,RNA5SP487,"RNA, 5S ribosomal pseudogene 487",PSEUDO,train
+100873273,RNA5SP18,"RNA, 5S ribosomal pseudogene 18",PSEUDO,train
+100873392,RNA5SP122,"RNA, 5S ribosomal pseudogene 122",PSEUDO,train
+100873563,RNA5SP512,"RNA, 5S ribosomal pseudogene 512",PSEUDO,train
+100873496,RNA5SP238,"RNA, 5S ribosomal pseudogene 238",PSEUDO,train
+100873585,RNA5SP319,"RNA, 5S ribosomal pseudogene 319",PSEUDO,train
+100873635,RNA5SP379,"RNA, 5S ribosomal pseudogene 379",PSEUDO,train
+100873667,RNA5SP416,"RNA, 5S ribosomal pseudogene 416",PSEUDO,train
+100873443,RNA5SP181,"RNA, 5S ribosomal pseudogene 181",PSEUDO,train
+100873576,RNA5SP301,"RNA, 5S ribosomal pseudogene 301",PSEUDO,train
+100873546,RNA5SP293,"RNA, 5S ribosomal pseudogene 293",PSEUDO,train
+106480757,RNA5SP161,"RNA, 5S ribosomal pseudogene 161",PSEUDO,train
+100873719,RNA5SP477,"RNA, 5S ribosomal pseudogene 477",PSEUDO,train
+100873529,RNA5SP276,"RNA, 5S ribosomal pseudogene 276",PSEUDO,train
+100873656,RNA5SP404,"RNA, 5S ribosomal pseudogene 404",PSEUDO,train
+100873302,RNA5SP67,"RNA, 5S ribosomal pseudogene 67",PSEUDO,train
+100873281,RNA5SP42,"RNA, 5S ribosomal pseudogene 42",PSEUDO,train
+106481793,RNA5SP254,"RNA, 5S ribosomal pseudogene 254",PSEUDO,train
+124905755,LOC124905755,5S ribosomal RNA,rRNA,train
+124905773,LOC124905773,5S ribosomal RNA,rRNA,train
+124905833,LOC124905833,5S ribosomal RNA,rRNA,train
+100169764,RNA5S13,"RNA, 5S ribosomal 13",rRNA,train
+106478992,RNA5SP50,"RNA, 5S ribosomal pseudogene 50",PSEUDO,train
+124905831,LOC124905831,5S ribosomal RNA,rRNA,train
+100873671,RNA5SP420,"RNA, 5S ribosomal pseudogene 420",PSEUDO,train
+100873424,RNA5SP158,"RNA, 5S ribosomal pseudogene 158",PSEUDO,train
+100873411,RNA5SP144,"RNA, 5S ribosomal pseudogene 144",PSEUDO,train
+100873662,RNA5SP410,"RNA, 5S ribosomal pseudogene 410",PSEUDO,train
+124905841,LOC124905841,5S ribosomal RNA,rRNA,train
+124905774,LOC124905774,5S ribosomal RNA,rRNA,train
+106480770,RNA5SP498,"RNA, 5S ribosomal pseudogene 498",PSEUDO,train
+124905776,LOC124905776,5S ribosomal RNA,rRNA,train
+124905790,LOC124905790,5S ribosomal RNA,rRNA,train
+100873597,RNA5SP331,"RNA, 5S ribosomal pseudogene 331",PSEUDO,train
+124905431,LOC124905431,5S ribosomal RNA,rRNA,train
+124905799,LOC124905799,5S ribosomal RNA,rRNA,train
+100873612,RNA5SP352,"RNA, 5S ribosomal pseudogene 352",PSEUDO,train
+100873606,RNA5SP344,"RNA, 5S ribosomal pseudogene 344",PSEUDO,train
+100873580,RNA5SP306,"RNA, 5S ribosomal pseudogene 306",PSEUDO,train
+124905763,LOC124905763,5S ribosomal RNA,rRNA,train
+124905784,LOC124905784,5S ribosomal RNA,rRNA,train
+124905770,LOC124905770,5S ribosomal RNA,rRNA,train
+124905437,LOC124905437,5S ribosomal RNA,rRNA,train
+124905817,LOC124905817,5S ribosomal RNA,rRNA,train
+124905818,LOC124905818,5S ribosomal RNA,rRNA,train
+124905764,LOC124905764,5S ribosomal RNA,rRNA,train
+100873569,RNA5SP518,"RNA, 5S ribosomal pseudogene 518",PSEUDO,train
+124905836,LOC124905836,5S ribosomal RNA,rRNA,train
+100873532,RNA5SP279,"RNA, 5S ribosomal pseudogene 279",PSEUDO,train
+124905795,LOC124905795,5S ribosomal RNA,rRNA,train
+106478995,RNA5SP130,"RNA, 5S ribosomal pseudogene 130",PSEUDO,train
+124905845,LOC124905845,5S ribosomal RNA,rRNA,train
+100873676,RNA5SP425,"RNA, 5S ribosomal pseudogene 425",PSEUDO,train
+100873384,RNA5SP114,"RNA, 5S ribosomal pseudogene 114",PSEUDO,train
+124905796,LOC124905796,5S ribosomal RNA,rRNA,train
+124905823,LOC124905823,5S ribosomal RNA,rRNA,train
+124905800,LOC124905800,5S ribosomal RNA,rRNA,train
+100873290,RNA5SP52,"RNA, 5S ribosomal pseudogene 52",PSEUDO,train
+124905758,LOC124905758,5S ribosomal RNA,rRNA,train
+100873700,RNA5SP455,"RNA, 5S ribosomal pseudogene 455",PSEUDO,train
+100873680,RNA5SP430,"RNA, 5S ribosomal pseudogene 430",PSEUDO,train
+100873738,RNA5SP496,"RNA, 5S ribosomal pseudogene 496",PSEUDO,train
+124905785,LOC124905785,5S ribosomal RNA,rRNA,train
+124905433,LOC124905433,5S ribosomal RNA,rRNA,train
+100873598,RNA5SP332,"RNA, 5S ribosomal pseudogene 332",PSEUDO,train
+124905805,LOC124905805,5S ribosomal RNA,rRNA,train
+124905425,LOC124905425,5S ribosomal RNA,rRNA,train
+106480761,RNA5SP298,"RNA, 5S ribosomal pseudogene 298",PSEUDO,train
+124905829,LOC124905829,5S ribosomal RNA,rRNA,train
+124905804,LOC124905804,5S ribosomal RNA,rRNA,train
+100873455,RNA5SP193,"RNA, 5S ribosomal pseudogene 193",PSEUDO,train
+100873536,RNA5SP283,"RNA, 5S ribosomal pseudogene 283",PSEUDO,train
+100873531,RNA5SP278,"RNA, 5S ribosomal pseudogene 278",PSEUDO,train
+124905839,LOC124905839,5S ribosomal RNA,rRNA,train
+100169754,RNA5S3,"RNA, 5S ribosomal 3",rRNA,train
+100169756,RNA5S5,"RNA, 5S ribosomal 5",rRNA,train
+100169767,RNA5S16,"RNA, 5S ribosomal 16",rRNA,train
+106481745,RNA5SP443,"RNA, 5S ribosomal pseudogene 443",PSEUDO,train
+100169766,RNA5S15,"RNA, 5S ribosomal 15",rRNA,train
+124905757,LOC124905757,5S ribosomal RNA,rRNA,train
+106478999,RNA5SP206,"RNA, 5S ribosomal pseudogene 206",PSEUDO,train
+124905819,LOC124905819,5S ribosomal RNA,rRNA,train
+100873434,RNA5SP169,"RNA, 5S ribosomal pseudogene 169",PSEUDO,train
+106480767,RNA5SP429,"RNA, 5S ribosomal pseudogene 429",PSEUDO,train
+111644136,RNA5SP529,"RNA, 5S ribosomal pseudogene 529",PSEUDO,train
+100873507,RNA5SP251,"RNA, 5S ribosomal pseudogene 251",PSEUDO,train
+124905771,LOC124905771,5S ribosomal RNA,rRNA,train
+124905811,LOC124905811,5S ribosomal RNA,rRNA,train
+100873464,RNA5SP203,"RNA, 5S ribosomal pseudogene 203",PSEUDO,train
+124905830,LOC124905830,5S ribosomal RNA,rRNA,train
+106480755,RNA5SP100,"RNA, 5S ribosomal pseudogene 100",PSEUDO,train
+124905756,LOC124905756,5S ribosomal RNA,rRNA,train
+124905801,LOC124905801,5S ribosomal RNA,rRNA,train
+106479011,RNA5SP377,"RNA, 5S ribosomal pseudogene 377",PSEUDO,train
+124905825,LOC124905825,5S ribosomal RNA,rRNA,train
+124905820,LOC124905820,5S ribosomal RNA,rRNA,train
+100873524,RNA5SP271,"RNA, 5S ribosomal pseudogene 271",PSEUDO,train
+100873485,RNA5SP227,"RNA, 5S ribosomal pseudogene 227",PSEUDO,train
+100873595,RNA5SP329,"RNA, 5S ribosomal pseudogene 329",PSEUDO,train
+124905838,LOC124905838,5S ribosomal RNA,rRNA,train
+100169765,RNA5S14,"RNA, 5S ribosomal 14",rRNA,train
+111644138,RNA5SP533,"RNA, 5S ribosomal pseudogene 533",PSEUDO,train
+100873287,RNA5SP48,"RNA, 5S ribosomal pseudogene 48",PSEUDO,train
+100873622,RNA5SP363,"RNA, 5S ribosomal pseudogene 363",PSEUDO,train
+124905436,LOC124905436,5S ribosomal RNA,rRNA,train
+100873578,RNA5SP304,"RNA, 5S ribosomal pseudogene 304",PSEUDO,train
+124905797,LOC124905797,5S ribosomal RNA,rRNA,train
+100169768,RNA5S17,"RNA, 5S ribosomal 17",rRNA,train
+124905816,LOC124905816,5S ribosomal RNA,rRNA,train
+124905427,LOC124905427,5S ribosomal RNA,rRNA,train
+100873482,RNA5SP223,"RNA, 5S ribosomal pseudogene 223",PSEUDO,train
+124905840,LOC124905840,5S ribosomal RNA,rRNA,train
+100873603,RNA5SP340,"RNA, 5S ribosomal pseudogene 340",PSEUDO,train
+124905824,LOC124905824,5S ribosomal RNA,rRNA,train
+100873423,RNA5SP157,"RNA, 5S ribosomal pseudogene 157",PSEUDO,train
+100873655,RNA5SP402,"RNA, 5S ribosomal pseudogene 402",PSEUDO,train
+124905802,LOC124905802,5S ribosomal RNA,rRNA,train
+100873509,RNA5SP255,"RNA, 5S ribosomal pseudogene 255",PSEUDO,train
+100873480,RNA5SP220,"RNA, 5S ribosomal pseudogene 220",PSEUDO,train
+124905844,LOC124905844,5S ribosomal RNA,rRNA,train
+100873648,RNA5SP395,"RNA, 5S ribosomal pseudogene 395",PSEUDO,train
+124905769,LOC124905769,5S ribosomal RNA,rRNA,train
+124905772,LOC124905772,5S ribosomal RNA,rRNA,train
+100873470,RNA5SP210,"RNA, 5S ribosomal pseudogene 210",PSEUDO,train
+124905432,LOC124905432,5S ribosomal RNA,rRNA,train
+100873441,RNA5SP179,"RNA, 5S ribosomal pseudogene 179",PSEUDO,train
+106480436,RNA5SP70,"RNA, 5S ribosomal pseudogene 70",PSEUDO,train
+100873317,RNA5SP84,"RNA, 5S ribosomal pseudogene 84",PSEUDO,train
+100169759,RNA5S8,"RNA, 5S ribosomal 8",rRNA,train
+100873687,RNA5SP438,"RNA, 5S ribosomal pseudogene 438",PSEUDO,train
+100169763,RNA5S12,"RNA, 5S ribosomal 12",rRNA,train
+124905810,LOC124905810,5S ribosomal RNA,rRNA,train
+124905760,LOC124905760,5S ribosomal RNA,rRNA,train
+100873616,RNA5SP357,"RNA, 5S ribosomal pseudogene 357",PSEUDO,train
+100169761,RNA5S10,"RNA, 5S ribosomal 10",rRNA,train
+124905429,LOC124905429,5S ribosomal RNA,rRNA,train
+124905806,LOC124905806,5S ribosomal RNA,rRNA,train
+100169762,RNA5S11,"RNA, 5S ribosomal 11",rRNA,train
+124905814,LOC124905814,5S ribosomal RNA,rRNA,train
+124905430,LOC124905430,5S ribosomal RNA,rRNA,train
+100873608,RNA5SP346,"RNA, 5S ribosomal pseudogene 346",PSEUDO,train
+100873530,RNA5SP277,"RNA, 5S ribosomal pseudogene 277",PSEUDO,train
+100873362,RNA5SP30,"RNA, 5S ribosomal pseudogene 30",PSEUDO,train
+124905835,LOC124905835,5S ribosomal RNA,rRNA,train
+100873398,RNA5SP128,"RNA, 5S ribosomal pseudogene 128",PSEUDO,train
+124905834,LOC124905834,5S ribosomal RNA,rRNA,train
+100873288,RNA5SP49,"RNA, 5S ribosomal pseudogene 49",PSEUDO,train
+100873512,RNA5SP258,"RNA, 5S ribosomal pseudogene 258",PSEUDO,train
+124905821,LOC124905821,5S ribosomal RNA,rRNA,train
+124905777,LOC124905777,5S ribosomal RNA,rRNA,train
+100873292,RNA5SP54,"RNA, 5S ribosomal pseudogene 54",PSEUDO,train
+124905787,LOC124905787,5S ribosomal RNA,rRNA,train
+100873284,RNA5SP45,"RNA, 5S ribosomal pseudogene 45",PSEUDO,train
+124905827,LOC124905827,5S ribosomal RNA,rRNA,train
+124905843,LOC124905843,5S ribosomal RNA,rRNA,train
+106480772,RNA5SP523,"RNA, 5S ribosomal pseudogene 523",PSEUDO,train
+124905792,LOC124905792,5S ribosomal RNA,rRNA,train
+100873587,RNA5SP321,"RNA, 5S ribosomal pseudogene 321",PSEUDO,train
+124905815,LOC124905815,5S ribosomal RNA,rRNA,train
+100873561,RNA5SP510,"RNA, 5S ribosomal pseudogene 510",PSEUDO,train
+100873304,RNA5SP69,"RNA, 5S ribosomal pseudogene 69",PSEUDO,train
+100169753,RNA5S2,"RNA, 5S ribosomal 2",rRNA,train
+124905762,LOC124905762,5S ribosomal RNA,rRNA,train
+100873663,RNA5SP412,"RNA, 5S ribosomal pseudogene 412",PSEUDO,train
+124905807,LOC124905807,5S ribosomal RNA,rRNA,train
+100873486,RNA5SP228,"RNA, 5S ribosomal pseudogene 228",PSEUDO,train
+100873582,RNA5SP308,"RNA, 5S ribosomal pseudogene 308",PSEUDO,train
+100873285,RNA5SP46,"RNA, 5S ribosomal pseudogene 46",PSEUDO,train
+100873594,RNA5SP328,"RNA, 5S ribosomal pseudogene 328",PSEUDO,train
+100873675,RNA5SP424,"RNA, 5S ribosomal pseudogene 424",PSEUDO,train
+100169758,RNA5S7,"RNA, 5S ribosomal 7",rRNA,train
+124905426,LOC124905426,5S ribosomal RNA,rRNA,train
+124905842,LOC124905842,5S ribosomal RNA,rRNA,train
+124905759,LOC124905759,5S ribosomal RNA,rRNA,train
+124905791,LOC124905791,5S ribosomal RNA,rRNA,train
+100873650,RNA5SP397,"RNA, 5S ribosomal pseudogene 397",PSEUDO,train
+124905781,LOC124905781,5S ribosomal RNA,rRNA,train
+100873517,RNA5SP264,"RNA, 5S ribosomal pseudogene 264",PSEUDO,train
+100873329,RNA5SP96,"RNA, 5S ribosomal pseudogene 96",PSEUDO,train
+124905828,LOC124905828,5S ribosomal RNA,rRNA,train
+124905754,LOC124905754,5S ribosomal RNA,rRNA,train
+124905832,LOC124905832,5S ribosomal RNA,rRNA,train
+100873522,RNA5SP269,"RNA, 5S ribosomal pseudogene 269",PSEUDO,train
+124905846,LOC124905846,5S ribosomal RNA,rRNA,train
+100873435,RNA5SP170,"RNA, 5S ribosomal pseudogene 170",PSEUDO,train
+124905786,LOC124905786,5S ribosomal RNA,rRNA,train
+124905775,LOC124905775,5S ribosomal RNA,rRNA,train
+100169757,RNA5S6,"RNA, 5S ribosomal 6",rRNA,train
+100873652,RNA5SP399,"RNA, 5S ribosomal pseudogene 399",PSEUDO,train
+111644139,RNA5SP535,"RNA, 5S ribosomal pseudogene 535",PSEUDO,train
+100873432,RNA5SP167,"RNA, 5S ribosomal pseudogene 167",PSEUDO,train
+100873565,RNA5SP514,"RNA, 5S ribosomal pseudogene 514",PSEUDO,train
+100873589,RNA5SP323,"RNA, 5S ribosomal pseudogene 323",PSEUDO,train
+106480764,RNA5SP351,"RNA, 5S ribosomal pseudogene 351",PSEUDO,train
+100873383,RNA5SP113,"RNA, 5S ribosomal pseudogene 113",PSEUDO,train
+106479017,RNA5SP473,"RNA, 5S ribosomal pseudogene 473",PSEUDO,train
+100873372,RNA5SP101,"RNA, 5S ribosomal pseudogene 101",PSEUDO,train
+100873726,RNA5SP484,"RNA, 5S ribosomal pseudogene 484",PSEUDO,train
+100169751,RNA5S1,"RNA, 5S ribosomal 1",rRNA,train
+100873640,RNA5SP385,"RNA, 5S ribosomal pseudogene 385",PSEUDO,train
+100873286,RNA5SP47,"RNA, 5S ribosomal pseudogene 47",PSEUDO,train
+124905434,LOC124905434,5S ribosomal RNA,rRNA,train
+100873305,RNA5SP71,"RNA, 5S ribosomal pseudogene 71",PSEUDO,train
+100873439,RNA5SP177,"RNA, 5S ribosomal pseudogene 177",PSEUDO,train
+100873541,RNA5SP288,"RNA, 5S ribosomal pseudogene 288",PSEUDO,train
+100873323,RNA5SP90,"RNA, 5S ribosomal pseudogene 90",PSEUDO,train
+100873503,RNA5SP247,"RNA, 5S ribosomal pseudogene 247",PSEUDO,train
+100873695,RNA5SP450,"RNA, 5S ribosomal pseudogene 450",PSEUDO,train
+100873476,RNA5SP216,"RNA, 5S ribosomal pseudogene 216",PSEUDO,train
+100873701,RNA5SP456,"RNA, 5S ribosomal pseudogene 456",PSEUDO,train
+100873399,RNA5SP129,"RNA, 5S ribosomal pseudogene 129",PSEUDO,train
+100873642,RNA5SP388,"RNA, 5S ribosomal pseudogene 388",PSEUDO,train
+106479018,RNA5SP521,"RNA, 5S ribosomal pseudogene 521",PSEUDO,train
+100873682,RNA5SP432,"RNA, 5S ribosomal pseudogene 432",PSEUDO,train
+124905798,LOC124905798,5S ribosomal RNA,rRNA,train
+124905768,LOC124905768,5S ribosomal RNA,rRNA,train
+124905761,LOC124905761,5S ribosomal RNA,rRNA,train
+124905794,LOC124905794,5S ribosomal RNA,rRNA,train
+124905778,LOC124905778,5S ribosomal RNA,rRNA,train
+124905789,LOC124905789,5S ribosomal RNA,rRNA,train
+124905779,LOC124905779,5S ribosomal RNA,rRNA,train
+124905822,LOC124905822,5S ribosomal RNA,rRNA,train
+124905765,LOC124905765,5S ribosomal RNA,rRNA,train
+124905837,LOC124905837,5S ribosomal RNA,rRNA,train
+124905803,LOC124905803,5S ribosomal RNA,rRNA,train
+100169755,RNA5S4,"RNA, 5S ribosomal 4",rRNA,train
+106480760,RNA5SP253,"RNA, 5S ribosomal pseudogene 253",PSEUDO,train
+124905780,LOC124905780,5S ribosomal RNA,rRNA,train
+124905428,LOC124905428,5S ribosomal RNA,rRNA,train
+124905812,LOC124905812,5S ribosomal RNA,rRNA,train
+124905813,LOC124905813,5S ribosomal RNA,rRNA,train
+124905424,LOC124905424,5S ribosomal RNA,rRNA,train
+124905767,LOC124905767,5S ribosomal RNA,rRNA,train
+124905435,LOC124905435,5S ribosomal RNA,rRNA,train
+124905766,LOC124905766,5S ribosomal RNA,rRNA,train
+124905826,LOC124905826,5S ribosomal RNA,rRNA,train
+124905438,LOC124905438,5S ribosomal RNA,rRNA,train
+100873307,RNA5SP73,"RNA, 5S ribosomal pseudogene 73",PSEUDO,val
+100873494,RNA5SP236,"RNA, 5S ribosomal pseudogene 236",PSEUDO,val
+100873713,RNA5SP470,"RNA, 5S ribosomal pseudogene 470",PSEUDO,test
+100873633,RNA5SP375,"RNA, 5S ribosomal pseudogene 375",PSEUDO,test
+100873709,RNA5SP465,"RNA, 5S ribosomal pseudogene 465",PSEUDO,test
+100873540,RNA5SP287,"RNA, 5S ribosomal pseudogene 287",PSEUDO,test
+106479006,RNA5SP317,"RNA, 5S ribosomal pseudogene 317",PSEUDO,test
+100873704,RNA5SP460,"RNA, 5S ribosomal pseudogene 460",PSEUDO,test
+111644144,RNA5SP527,"RNA, 5S ribosomal pseudogene 527",PSEUDO,test
+106479005,RNA5SP315,"RNA, 5S ribosomal pseudogene 315",PSEUDO,test
+100873674,RNA5SP423,"RNA, 5S ribosomal pseudogene 423",PSEUDO,test
+100873586,RNA5SP320,"RNA, 5S ribosomal pseudogene 320",PSEUDO,test
+100873314,RNA5SP80,"RNA, 5S ribosomal pseudogene 80",PSEUDO,test
+100873714,RNA5SP471,"RNA, 5S ribosomal pseudogene 471",PSEUDO,test
+100873301,RNA5SP66,"RNA, 5S ribosomal pseudogene 66",PSEUDO,test
+100873626,RNA5SP367,"RNA, 5S ribosomal pseudogene 367",PSEUDO,test
+106480762,RNA5SP310,"RNA, 5S ribosomal pseudogene 310",PSEUDO,test
+106480358,RNA5SP311,"RNA, 5S ribosomal pseudogene 311",PSEUDO,test
+106480439,RNA5SP312,"RNA, 5S ribosomal pseudogene 312",PSEUDO,test

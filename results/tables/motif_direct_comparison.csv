@@ -1,0 +1,9 @@
+species,motif,n,net_PE_median,net_OB_median,p_one_sided_PE_more_negative
+chicken,tRNA A box,275,-0.094,-0.041,5.987476e-24
+chicken,tRNA B box,249,-0.117,-0.205,0.35125935
+chicken,snoRNA C box,77,-0.38,-0.411,0.99044174
+chicken,snoRNA D box,124,-0.06,-0.012,8.6281076e-18
+zebrafish,tRNA A box,2875,-0.099,-0.052,0.0
+zebrafish,tRNA B box,2341,-0.154,-0.237,1.0
+zebrafish,snoRNA C box,70,-0.354,-0.385,0.98354256
+zebrafish,snoRNA D box,148,-0.038,-0.009,5.3043024e-15

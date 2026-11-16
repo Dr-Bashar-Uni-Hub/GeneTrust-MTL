@@ -1,0 +1,38 @@
+{
+ "species": "chicken",
+ "taxon": 9031,
+ "divergence_mya": 319,
+ "gene_reports": 28270,
+ "eligible_le_1000nt": 2610,
+ "eligible_by_class": {
+  "ncRNA": 1186,
+  "PROTEIN_CODING": 629,
+  "tRNA": 306,
+  "snoRNA": 188,
+  "rRNA": 104,
+  "snRNA": 78,
+  "PSEUDO": 73,
+  "OTHER": 46
+ },
+ "n_genes": 2553,
+ "by_class": {
+  "ncRNA": 1173,
+  "PROTEIN_CODING": 585,
+  "tRNA": 306,
+  "snoRNA": 188,
+  "rRNA": 104,
+  "snRNA": 78,
+  "PSEUDO": 73,
+  "OTHER": 46
+ },
+ "n_strict80": 2071,
+ "n_strict60": 1992,
+ "n_no_detectable_homolog": 1655,
+ "n_components": 1536,
+ "trna_A_box_found": 0.8986928104575164,
+ "trna_B_box_found": 0.8137254901960784,
+ "seed": 2026,
+ "cap_per_class": 3000,
+ "max_len": 1000,
+ "datasets_cli": "datasets version: 18.41.1"
+}

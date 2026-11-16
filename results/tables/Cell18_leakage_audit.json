@@ -1,0 +1,22 @@
+{
+ "human_enhancers_ensembl": {
+  "n_train": 123758,
+  "n_test": 30936,
+  "test_exact_duplicate_in_train_either_strand": 11768,
+  "test_with_ge80pct_identity_match_in_train": 15865,
+  "frac_near": 0.5128329454357383,
+  "n_components": 94545,
+  "largest_component": 25139,
+  "homology_test_n": 30937
+ },
+ "human_nontata_promoters": {
+  "n_train": 27097,
+  "n_test": 9034,
+  "test_exact_duplicate_in_train_either_strand": 0,
+  "test_with_ge80pct_identity_match_in_train": 3951,
+  "frac_near": 0.43734779721053796,
+  "n_components": 22007,
+  "largest_component": 1302,
+  "homology_test_n": 9040
+ }
+}

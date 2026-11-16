@@ -1,0 +1,17 @@
+task,split,contrast,diff_pp,lo,hi,p
+human_enhancers_ensembl,provided,"CNN (one-hot, 3 seeds) − Length only",34.4324,33.7581,35.218,0.0
+human_enhancers_ensembl,provided,"CNN (one-hot, 3 seeds) − 1-NN 6-mer lookup",1.6324,0.9904,2.4074,0.0
+human_enhancers_ensembl,provided,6-mer logistic regression − Length only,28.5687,27.7852,29.2419,0.0
+human_enhancers_ensembl,provided,"CNN (one-hot, 3 seeds) − 6-mer logistic regression",5.8637,5.2716,6.5907,0.0
+human_enhancers_ensembl,homology-aware,"CNN (one-hot, 3 seeds) − Length only",37.7283,36.9473,38.5083,0.0
+human_enhancers_ensembl,homology-aware,"CNN (one-hot, 3 seeds) − 1-NN 6-mer lookup",19.126,18.3681,19.8705,0.0
+human_enhancers_ensembl,homology-aware,6-mer logistic regression − Length only,33.1545,32.2394,34.0348,0.0
+human_enhancers_ensembl,homology-aware,"CNN (one-hot, 3 seeds) − 6-mer logistic regression",4.5738,4.016,5.1749,0.0
+human_nontata_promoters,provided,"CNN (one-hot, 3 seeds) − Length only",33.6101,30.0178,37.9244,0.0
+human_nontata_promoters,provided,"CNN (one-hot, 3 seeds) − 1-NN 6-mer lookup",-3.7599,-4.5315,-3.037,0.0
+human_nontata_promoters,provided,6-mer logistic regression − Length only,30.9719,27.184,35.4647,0.0
+human_nontata_promoters,provided,"CNN (one-hot, 3 seeds) − 6-mer logistic regression",2.6382,1.8985,3.384,0.0
+human_nontata_promoters,homology-aware,"CNN (one-hot, 3 seeds) − Length only",25.7633,23.189,28.3429,0.0
+human_nontata_promoters,homology-aware,"CNN (one-hot, 3 seeds) − 1-NN 6-mer lookup",-4.6239,-6.0273,-3.2282,0.0
+human_nontata_promoters,homology-aware,6-mer logistic regression − Length only,25.6858,23.08,28.4322,0.0
+human_nontata_promoters,homology-aware,"CNN (one-hot, 3 seeds) − 6-mer logistic regression",0.0774,-1.1704,1.3518,0.9

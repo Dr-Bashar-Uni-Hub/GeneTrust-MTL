@@ -1,0 +1,14 @@
+{
+ "model": "DNABERT6_GeneType",
+ "seed": 42,
+ "params": 89198602,
+ "best_epoch": 3.0,
+ "best_val_loss": 0.4623614251613617,
+ "train_s": 939.2184488773346,
+ "infer_ms_per_seq": 4.136810295886546,
+ "GT_acc": 0.8142651986596458,
+ "GT_mF1": 0.6266953742433297,
+ "mouse_GT_acc": 0.6231906736562084,
+ "chicken_GT_acc": 0.6149627888758323,
+ "zebrafish_GT_acc": 0.4170371136152176
+}

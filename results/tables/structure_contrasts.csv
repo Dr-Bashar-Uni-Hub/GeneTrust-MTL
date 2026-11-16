@@ -1,0 +1,6 @@
+a,b,subset,diff,lo,hi,p
+MTL_Transformer_PE,- Length+GC+Structure GBM,all,0.016,-0.0159,0.047,0.315
+MTL_Transformer_PE,- Length+GC+Structure GBM,non-MPRA,0.0204,-0.0197,0.0622,0.317
+MTL_Transformer,- Length+GC+Structure GBM,all,-0.024,-0.0549,0.007,0.145
+MTL_Transformer,- Length+GC+Structure GBM,non-MPRA,-0.0251,-0.0641,0.0156,0.258
+Length+GC+Structure GBM,- Length-only GBM,all,0.0297,0.0116,0.0521,0.0

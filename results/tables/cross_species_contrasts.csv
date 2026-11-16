@@ -1,0 +1,73 @@
+species,subset,contrast,diff_pp,lo,hi,p,n
+mouse,shared classes,Transformer+PE − Length only,21.5,16.3,25.9,0.0,12715
+mouse,shared classes,DNABERT − Length only,26.8,21.9,31.4,0.0,12715
+mouse,shared classes,Transformer (order-blind) − Length only,19.2,12.9,24.1,0.0,12715
+mouse,shared classes,Transformer+PE − Transformer (order-blind),2.3,1.1,3.7,0.0,12715
+mouse,shared classes,Transformer (order-blind) − Single-task Transformer,4.0,3.3,4.9,0.0,12715
+mouse,shared classes,DNABERT − Transformer+PE,5.3,3.4,7.6,0.0,12715
+mouse,shared classes,Transformer+PE − 1-NN lookup,7.3,3.5,11.3,0.0,12715
+mouse,shared classes,DNABERT − 1-NN lookup,12.6,8.4,17.1,0.0,12715
+mouse,"shared, no >=60% match",Transformer+PE − Length only,28.7,20.8,34.4,0.0,8376
+mouse,"shared, no >=60% match",DNABERT − Length only,34.2,27.1,39.9,0.0,8376
+mouse,"shared, no >=60% match",Transformer (order-blind) − Length only,27.6,17.8,34.2,0.0,8376
+mouse,"shared, no >=60% match",Transformer+PE − Transformer (order-blind),1.1,-0.5,3.2,0.266,8376
+mouse,"shared, no >=60% match",Transformer (order-blind) − Single-task Transformer,3.2,2.3,4.2,0.0,8376
+mouse,"shared, no >=60% match",DNABERT − Transformer+PE,5.5,2.8,8.6,0.0,8376
+mouse,"shared, no >=60% match",Transformer+PE − 1-NN lookup,18.4,14.0,22.5,0.0,8376
+mouse,"shared, no >=60% match",DNABERT − 1-NN lookup,23.9,20.1,28.3,0.0,8376
+mouse,all genes,Transformer+PE − Length only,21.5,16.4,25.9,0.0,12781
+mouse,all genes,DNABERT − Length only,26.8,21.9,31.5,0.0,12781
+mouse,all genes,Transformer (order-blind) − Length only,19.3,12.9,24.2,0.0,12781
+mouse,all genes,Transformer+PE − Transformer (order-blind),2.3,1.1,3.7,0.0,12781
+mouse,all genes,Transformer (order-blind) − Single-task Transformer,4.2,3.3,5.0,0.0,12781
+mouse,all genes,DNABERT − Transformer+PE,5.3,3.4,7.6,0.0,12781
+mouse,all genes,Transformer+PE − 1-NN lookup,7.1,3.4,11.2,0.0,12781
+mouse,all genes,DNABERT − 1-NN lookup,12.4,8.3,17.0,0.0,12781
+chicken,shared classes,Transformer+PE − Length only,18.9,15.8,22.6,0.0,2449
+chicken,shared classes,DNABERT − Length only,25.4,22.4,29.0,0.0,2449
+chicken,shared classes,Transformer (order-blind) − Length only,15.6,12.3,18.7,0.0,2449
+chicken,shared classes,Transformer+PE − Transformer (order-blind),3.4,1.0,5.8,0.002,2449
+chicken,shared classes,Transformer (order-blind) − Single-task Transformer,15.5,13.4,17.7,0.0,2449
+chicken,shared classes,DNABERT − Transformer+PE,6.5,4.6,8.5,0.0,2449
+chicken,shared classes,Transformer+PE − 1-NN lookup,9.4,5.5,13.6,0.0,2449
+chicken,shared classes,DNABERT − 1-NN lookup,15.9,12.0,20.1,0.0,2449
+chicken,"shared, no >=60% match",Transformer+PE − Length only,18.5,15.4,22.1,0.0,1991
+chicken,"shared, no >=60% match",DNABERT − Length only,25.3,22.3,29.0,0.0,1991
+chicken,"shared, no >=60% match",Transformer (order-blind) − Length only,17.7,14.3,20.6,0.0,1991
+chicken,"shared, no >=60% match",Transformer+PE − Transformer (order-blind),0.8,-1.2,3.1,0.445,1991
+chicken,"shared, no >=60% match",Transformer (order-blind) − Single-task Transformer,14.8,12.7,17.3,0.0,1991
+chicken,"shared, no >=60% match",DNABERT − Transformer+PE,6.8,4.8,9.0,0.0,1991
+chicken,"shared, no >=60% match",Transformer+PE − 1-NN lookup,13.9,9.1,19.1,0.0,1991
+chicken,"shared, no >=60% match",DNABERT − 1-NN lookup,20.7,15.5,26.4,0.0,1991
+chicken,all genes,Transformer+PE − Length only,17.7,14.2,21.6,0.0,2553
+chicken,all genes,DNABERT − Length only,24.6,21.6,28.2,0.0,2553
+chicken,all genes,Transformer (order-blind) − Length only,13.3,8.1,17.7,0.0,2553
+chicken,all genes,Transformer+PE − Transformer (order-blind),4.4,1.6,7.6,0.002,2553
+chicken,all genes,Transformer (order-blind) − Single-task Transformer,15.5,13.4,17.6,0.0,2553
+chicken,all genes,DNABERT − Transformer+PE,6.9,4.9,9.1,0.0,2553
+chicken,all genes,Transformer+PE − 1-NN lookup,11.1,6.1,16.5,0.0,2553
+chicken,all genes,DNABERT − 1-NN lookup,18.0,12.7,24.1,0.0,2553
+zebrafish,shared classes,Transformer+PE − Length only,10.9,1.1,21.7,0.027,6673
+zebrafish,shared classes,DNABERT − Length only,18.9,9.5,30.6,0.0,6673
+zebrafish,shared classes,Transformer (order-blind) − Length only,-1.8,-11.9,7.7,0.675,6673
+zebrafish,shared classes,Transformer+PE − Transformer (order-blind),12.7,7.8,18.0,0.0,6673
+zebrafish,shared classes,Transformer (order-blind) − Single-task Transformer,15.2,9.9,21.7,0.0,6673
+zebrafish,shared classes,DNABERT − Transformer+PE,8.0,4.3,13.4,0.0,6673
+zebrafish,shared classes,Transformer+PE − 1-NN lookup,-2.1,-6.4,1.8,0.28,6673
+zebrafish,shared classes,DNABERT − 1-NN lookup,6.0,1.2,12.0,0.009,6673
+zebrafish,"shared, no >=60% match",Transformer+PE − Length only,9.1,-8.8,26.6,0.37,2832
+zebrafish,"shared, no >=60% match",DNABERT − Length only,23.4,7.8,40.3,0.0,2832
+zebrafish,"shared, no >=60% match",Transformer (order-blind) − Length only,-0.3,-16.2,14.8,0.991,2832
+zebrafish,"shared, no >=60% match",Transformer+PE − Transformer (order-blind),9.4,2.0,15.8,0.005,2832
+zebrafish,"shared, no >=60% match",Transformer (order-blind) − Single-task Transformer,18.6,10.6,26.2,0.0,2832
+zebrafish,"shared, no >=60% match",DNABERT − Transformer+PE,14.3,8.9,21.0,0.0,2832
+zebrafish,"shared, no >=60% match",Transformer+PE − 1-NN lookup,1.2,-4.9,7.6,0.718,2832
+zebrafish,"shared, no >=60% match",DNABERT − 1-NN lookup,15.5,7.0,26.1,0.0,2832
+zebrafish,all genes,Transformer+PE − Length only,0.5,-10.7,19.6,0.907,9673
+zebrafish,all genes,DNABERT − Length only,-15.8,-49.5,27.4,0.702,9673
+zebrafish,all genes,Transformer (order-blind) − Length only,-19.1,-36.7,5.8,0.236,9673
+zebrafish,all genes,Transformer+PE − Transformer (order-blind),19.6,9.3,26.6,0.0,9673
+zebrafish,all genes,Transformer (order-blind) − Single-task Transformer,21.6,11.1,28.6,0.0,9673
+zebrafish,all genes,DNABERT − Transformer+PE,-16.4,-39.3,11.2,0.701,9673
+zebrafish,all genes,Transformer+PE − 1-NN lookup,-6.8,-11.5,0.1,0.058,9673
+zebrafish,all genes,DNABERT − 1-NN lookup,-23.2,-50.2,9.1,0.695,9673

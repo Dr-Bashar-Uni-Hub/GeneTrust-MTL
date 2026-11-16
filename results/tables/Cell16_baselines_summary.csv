@@ -1,0 +1,10 @@
+species,baseline,acc_all
+mouse,length_only,0.361
+mouse,length_gc_structure,0.38
+mouse,nn1_lookup,0.505
+chicken,length_only,0.34
+chicken,length_gc_structure,0.396
+chicken,nn1_lookup,0.406
+zebrafish,length_only,0.578
+zebrafish,length_gc_structure,0.505
+zebrafish,nn1_lookup,0.652
